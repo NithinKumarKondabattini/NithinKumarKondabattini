@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi 👋, I'm Nithinkumar Kondabattini
 
-<!--
-**Nithinkondabathini/Nithinkondabathini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A Passionate Full Stack Developer from India
 
-Here are some ideas to get you started:
+### About Me
+I'm a dedicated developer interested in building scalable web applications and learning cutting-edge technologies. I have a strong foundation in web development, cloud computing, and software engineering. Currently, I'm expanding my skills in DevOps and cloud infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Currently Working On
+- 🔨 Building modern web applications with React and Node.js
+- 📚 Learning DevOps and cloud technologies (AWS)
+- 🌐 Contributing to open-source projects
+
+### 🎓 Currently Learning
+- ☁️ Cloud Computing (AWS Services)
+- 😳 Docker & Kubernetes
+- 📈 Data Structures & Algorithms
+- 🔐 Cybersecurity Fundamentals
+
+### 👥 Looking To Collaborate On
+- Web Development Projects
+- Open Source Contributions
+- Machine Learning Applications
+
+### 🗣️ Ask Me About
+- React.js, Node.js, and Full Stack Development
+- Web Development Best Practices
+- AWS Cloud Services
+- HTML, CSS, JavaScript
+
+### 📞 How to Reach Me
+📧 Email: nithinkondabathini@gmail.com
+
+### 🎉 Fun Fact
+I love building projects from scratch and solving complex problems with clean, efficient code!
+
+---
+
+### 🌐 Connect with Me
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nithinkondabathini)
+
+---
+
+### 💻 Languages and Tools
+
+**Frontend Development:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Backend Development:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases:**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud & Tools:**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nithinkondabathini&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithinkondabathini&layout=compact&theme=tokyonight)
+
+---
+
+### 🏆 Achievements
+
+- 🚀 Built multiple full-stack web applications
+- 📚 Strong foundation in modern web development
+- 🌟 Passionate about learning new technologies
+- 🤛 Open-source contributor
+
+---
+
+*Last updated: November 2025*
