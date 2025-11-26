@@ -13,8 +13,7 @@
 
 - 🔭 I'm currently working on **Web Applications with React & Node.js**
 
-- 🌱 I'm currently learning **DevOps & Cloud Technologies**
-
+- 🌱 I'm currently learning **DevOps & Cloud Technologies, AWS, Java, Python, and building my coding skills**
 - 💬 Ask me about **React, Node.js, Python, AWS**
 
 - 📫 How to reach me **Nithinkumarkondabattini@gmail.com**
